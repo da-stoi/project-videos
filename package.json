@@ -1,7 +1,7 @@
 {
-  "name": "projects",
+  "name": "project-videos",
   "version": "1.0.0",
-  "description": "My Remotion video",
+  "description": "Automatically create 10-second videos from my list of projects",
   "scripts": {
     "start": "remotion preview src/index.tsx",
     "buildDesktop": "remotion render src/index.tsx Desktop out/desktop.mp4",

@@ -1,5 +1,7 @@
 # Automatic Portfolio Videos
 
+- [Project Page](https://daniel.stoiber.network/project/project-videos)
+
 This is a simple project that makes use of [Remotion](https://www.remotion.dev/), a React framework for creating videos programmatically. It takes any project published on [my portfolio](https://daniel.stoiber.network) and renders a video of the project.
 
 ## Commands
